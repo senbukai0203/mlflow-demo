@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1684490412606
+current_stage: None
+description: ''
+last_updated_timestamp: 1684490412606
+name: release
+run_id: 887226fb3ec94e909d8fc5d2f42a07e6
+run_link: ''
+source: file:///C:/Users/test/Documents/mlflow-demo/mlruns/0/887226fb3ec94e909d8fc5d2f42a07e6/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/test/Documents/mlflow-demo/mlruns/0/4c21d7accd314e99bb8346c497c11680/artifacts
+end_time: 1684489132922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c21d7accd314e99bb8346c497c11680
+run_name: glamorous-bird-694
+run_uuid: 4c21d7accd314e99bb8346c497c11680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489107365
+status: 3
+tags: []
+user_id: test
